@@ -46,6 +46,7 @@ Características Principales
 ##  Estructura del Proyecto
 
 
+
 crm-app/
 ├── index.html                 # Página principal
 ├── README.md                  # Documentación
@@ -75,6 +76,7 @@ crm-app/
 │   ├── auth.js               # Servicios de autenticación
 │   └── api.js                # Servicios de API
 └── app.js                    # Componente raíz
+
 
 
 # Instalación y Uso
