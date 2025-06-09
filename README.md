@@ -45,38 +45,38 @@ Características Principales
 
 ##  Estructura del Proyecto
 
-
-
+```
 crm-app/
 ├── index.html                 # Página principal
 ├── README.md                  # Documentación
 ├── styles/
-│   └── main.css              # Estilos personalizados
+│   └── main.css               # Estilos personalizados
 ├── components/
 │   ├── Auth/
-│   │   └── Login.js          # Componente de autenticación
+│   │   └── Login.js           # Componente de autenticación
 │   ├── Layout/
-│   │   ├── Header.js         # Cabecera de la aplicación
-│   │   └── Sidebar.js        # Menú lateral
+│   │   ├── Header.js          # Cabecera de la aplicación
+│   │   └── Sidebar.js         # Menú lateral
 │   ├── Dashboard/
-│   │   └── Dashboard.js      # Panel principal
+│   │   └── Dashboard.js       # Panel principal
 │   ├── Contactos/
-│   │   ├── ContactosList.js  # Lista de contactos
-│   │   └── ContactoModal.js  # Modal crear/editar contacto
+│   │   ├── ContactosList.js   # Lista de contactos
+│   │   └── ContactoModal.js   # Modal crear/editar contacto
 │   ├── Negocios/
-│   │   ├── NegociosList.js   # Lista de negocios
-│   │   └── NegocioModal.js   # Modal crear/editar negocio
+│   │   ├── NegociosList.js    # Lista de negocios
+│   │   └── NegocioModal.js    # Modal crear/editar negocio
 │   ├── Compras/
-│   │   ├── ComprasList.js    # Lista de compras
-│   │   └── ProveedorModal.js # Modal información proveedor
+│   │   ├── ComprasList.js     # Lista de compras
+│   │   └── ProveedorModal.js  # Modal información proveedor
 │   └── Tickets/
-│       ├── TicketsList.js    # Lista de tickets
-│       └── TicketModal.js    # Modal crear/editar ticket
+│       ├── TicketsList.js     # Lista de tickets
+│       └── TicketModal.js     # Modal crear/editar ticket
 ├── utils/
-│   ├── auth.js               # Servicios de autenticación
-│   └── api.js                # Servicios de API
-└── app.js                    # Componente raíz
-
+│   ├── auth.js                # Servicios de autenticación
+│   └── api.js                 # Servicios de API
+└── app.js                     # Componente raíz
+ 
+```
 
 
 # Instalación y Uso
