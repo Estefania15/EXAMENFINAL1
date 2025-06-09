@@ -190,14 +190,14 @@ Fondo:      #f8fafc (Gris claro)
 4. Push a la rama
 5. Crear Pull Request
 
-## 👨‍💻 Autor
+##  Autor
 Estefania Cruz Muñoz
 
 **TechSolutions Team**
 - Email: contact@techsolutions.com
 - Web: www.techsolutions.com
 
-## 🆕 Versiones
+## Versiones
 beta
 
 ### v1.0.0 (Beta)
@@ -212,9 +212,9 @@ beta
 
 
 ### Próximas Versiones
-- 🔄 Integración con API real
-- 📊 Gráficos y reportes
-- 🔍 Búsqueda avanzada
-- 📧 Notificaciones por email
-- 📱 App móvil
+-  Integración con API real
+-  Gráficos y reportes
+-  Búsqueda avanzada
+-  Notificaciones por email
+-  App móvil
 
